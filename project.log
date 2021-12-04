@@ -1,0 +1,4 @@
+INFO:root:['/home/lauro/workspace/data-transformations-python/jobs/citibike_ingest.py', './resources/citibike/', './resources/citibike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: ./resources/citibike/
+INFO:root:Application Done: Citibike Pipeline: Ingest
